@@ -2,4 +2,7 @@
 
 # Upstream Forestry Carbon + LCA
 ##  UpStream Training Videos
-[Interface and Materials Overview -(10:19 min)](https://www.youtube.com/watch?v=MU6BTT887JY)
+* [Interface and Materials Overview (10:19 min)](https://www.youtube.com/watch?v=MU6BTT887JY)
+* [Full Wood LCA Walkthrough (18:09 min)](https://www.youtube.com/watch?v=H8fAgn3O-34)
+* [Simulating Custom End of Life Factors (14:29 min)](https://www.youtube.com/watch?v=5eSLmfnxcKs)
+* [Forest Factors and A0 Module (8:56 min)](https://www.youtube.com/watch?v=h6xRwkvZeLI)

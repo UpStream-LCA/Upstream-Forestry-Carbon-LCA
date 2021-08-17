@@ -8,10 +8,10 @@
 * [Forest Factors and A0 Module (8:56 min)](https://www.youtube.com/watch?v=h6xRwkvZeLI)
 
 ## Tool Download
-[UpStream_Spreadsheet_pbv1_08092021.xlsx](https://github.com/UpStream-LCA/Upstream-Forestry-Carbon-LCA/files/6977118/UpStream_Spreadsheet_pbv1_08092021.xlsx)
+[UpStream_Spreadsheet_pbv1.0_08092021.xlsx](https://github.com/UpStream-LCA/Upstream-Forestry-Carbon-LCA/files/6977118/UpStream_Spreadsheet_pbv1_08092021.xlsx)
 
 ## Documentation
-[UpStream_Documentation_pbv1_08092021.pdf](https://github.com/UpStream-LCA/Upstream-Forestry-Carbon-LCA/files/6970513/UpStream_Documentation_pbv1_08092021.pdf)
+[UpStream_Documentation_pbv1.0_08092021.pdf](https://github.com/UpStream-LCA/Upstream-Forestry-Carbon-LCA/files/6970513/UpStream_Documentation_pbv1_08092021.pdf)
 
 ## Copyright Notice
 [Copyright_Notice_pbv1_08092021.pdf](https://github.com/UpStream-LCA/Upstream-Forestry-Carbon-LCA/files/6970519/Copyright_Notice_pbv1_08092021.pdf)

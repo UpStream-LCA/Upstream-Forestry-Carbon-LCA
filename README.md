@@ -14,6 +14,6 @@
 [UpStream_Documentation_pbv1_08092021.pdf](https://github.com/UpStream-LCA/Upstream-Forestry-Carbon-LCA/files/7024309/UpStream_Documentation_pbv1_08092021.pdf)
 
 ## Copyright Notice
-[NOTICE.txt](https://github.com/UpStream-LCA/Upstream-Forestry-Carbon-LCA/files/7024308/NOTICE.txt)
+[NOTICE.txt](NOTICE.txt)
 
 

@@ -1,4 +1,4 @@
-“NOTICE”
+“NOTICE” v2.0
 
 
 UpStream Forestry Carbon and LCA Tool, Beta-Version 
